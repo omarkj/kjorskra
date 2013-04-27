@@ -4,7 +4,7 @@ kjorskra
 Little gem that can figure out where you should vote.
 
 Give it your kennitala and it will tell you where you should vote in the Icelandic elections
-on the 27th.
+on the 27th of April.
 
 ## Usage
 
